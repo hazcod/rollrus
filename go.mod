@@ -1,4 +1,4 @@
-module github.com/heroku/rollrus
+module github.com/hazcod/rollrus
 
 require (
 	github.com/pkg/errors v0.8.1
